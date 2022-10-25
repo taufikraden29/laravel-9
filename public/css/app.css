@@ -1,0 +1,17 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.alert {
+    background: indigo;
+    color: white;
+    padding: 1opx;
+    border-radius: 10px;
+}
+
+.alert-header {
+    background: wheat;
+    color: black;
+}
