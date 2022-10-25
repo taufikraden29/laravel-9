@@ -4,14 +4,12 @@ html {
     padding: 0;
 }
 
-.alert {
+body {
     background: indigo;
     color: white;
-    padding: 1opx;
-    border-radius: 10px;
 }
 
 .alert-header {
-    background: wheat;
+    background: indigo;
     color: black;
 }

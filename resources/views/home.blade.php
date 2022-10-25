@@ -1,3 +1,4 @@
 <x-app-layout>
-    Home Page
+    <p class="normal-case">The quick brown fox ...</p>
+
 </x-app-layout>
